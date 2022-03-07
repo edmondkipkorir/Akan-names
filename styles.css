@@ -1,0 +1,6 @@
+body,#body-text{
+    text-align: center;
+}
+#body-text{
+    background-color: rgb(173, 172, 169);
+}
