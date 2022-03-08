@@ -2,3 +2,13 @@ body,#body-text{
     text-align: center;
 background-color: bisque;
 
+}
+#first{
+    display: flex;
+    align-items: center;
+    
+}
+.content {
+   color: rgb(27, 179, 179);
+   margin-left: 20%;
+}
